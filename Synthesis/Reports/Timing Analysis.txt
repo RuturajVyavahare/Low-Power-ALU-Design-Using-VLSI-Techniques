@@ -1,0 +1,9 @@
+Timing Analysis
+---------------
+Design Type       : Combinational
+Timing Constraints: None
+WNS               : Not applicable
+TNS               : 0.000 ns
+WHS               : Not applicable
+THS               : 0.000 ns
+Failing Endpoints : 0

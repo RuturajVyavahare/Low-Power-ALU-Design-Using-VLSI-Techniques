@@ -1,0 +1,43 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.backup.log
+*.debug
+*.rpt
+
+# Vivado project files
+.vivado/
+*.xpr
+*.xpr.user
+*.runs/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Simulation generated files
+*.wdb
+*.vcd
+*.wlf
+*.vpd
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Build/output directories
+build/
+dist/

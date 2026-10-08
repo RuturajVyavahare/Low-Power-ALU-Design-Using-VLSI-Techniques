@@ -1,0 +1,11 @@
+Low-Power 4-Bit ALU
+Vivado Utilization Summary
+
+Device: xc7a35tcpg236-1
+
+Resource        Used    Available    Utilization
+-------------------------------------------------
+LUT             20      20800        0.10%
+IO              18      106          16.98%
+
+Design Type: Combinational
